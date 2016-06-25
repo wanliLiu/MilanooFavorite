@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="color_DrawerArrowToggle">#FFFFFF</color>
+
+
+    <color name="system_theme_color">#EEEEEE</color>
+    <color name="color_purple">#640D63</color>
+    <color name="color_purple_hit">#643263</color>
+    <color name="color_purple_shallow">#752774</color>
+    <color name="color_transparent">#00000000</color>
+    <color name="color_black_1">#2c2c2c</color>
+    <color name="color_black_2">#2A2A2A</color>
+    <color name="color_green_1">#51d489</color>
+    <color name="color_gray_1">#b1b1b1</color>
+    <color name="com_sina_weibo_sdk_blue">#3B5998</color>
+    <color name="transparent_background">#96000000</color>
+    <!-- EFEFF4 -->
+    <color name="top_buttom_bg">#F9F9F9</color>
+    <color name="color_gray_reviews">#DCDCDC</color>
+    <color name="color_gray">#717171</color>
+    <color name="color_light_black">#666666</color>
+    <color name="color_black">#000000</color>
+    <color name="color_light_red">#D40B7D</color>
+    <color name="color_blue">#1A85FD</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_white_transparent">#F0ffffff</color>
+    <color name="color_white_light">#C7A5C6</color>
+    <color name="color_green">#92d44c</color>
+    <color name="color_yellow">#ff8000</color>
+    <color name="color_yellow_hit">#ff7000</color>
+    <color name="color_red">#fc403b</color>
+    <color name="color_line1">#A8A8A9</color>
+    <color name="color_line2">#e3e3e3</color>
+    <color name="color_line3">#d4d4d4</color>
+    <color name="color_line">#dddddd</color>
+    <color name="color_light_blue">#4B851E</color>
+    <color name="color_silde_menu">#333333</color>
+    <color name="color_silde_menu_text">#D1D1D1</color>
+    <color name="color_silde_menu_press">#484848</color>
+    <color name="color_silde_menu_chile_background">#111111</color>
+    <color name="color_silde_menu_diviver">#222222</color>
+    <color name="color_brand_list_cant_bug">#7F000000</color>
+    <color name="color_gray_light">#8E8E8E</color>
+    <color name="color_black_transparent">#96000000</color>
+
+    <color name="color_sile_menu_background">#cccc</color>
+
+    <!-- Theme colors -->
+    <color name="theme_default_primary">#ff212121</color>
+    <color name="theme_default_primary_dark">#ff000000</color>
+    <color name="theme_accent">#ff4081</color>
+    <color name="theme_window_background">#ECECEC</color>
+
+    <!-- general text colors -->
+    <color name="text">#212121</color>
+    <color name="secondary">#727272</color>
+    <color name="hint">#B8B8B8</color>
+    <color name="dividers">#DADADA</color>
+
+    <!-- general colors for drawer -->
+    <color name="list_background">#F2F2F2</color>
+    <!-- primary colors for drawer -->
+    <color name="list_background_normal">#FCFCFC</color>
+    <!-- secondary colors for drawer -->
+    <color name="list_background_secondary_normal">#F2F2F2</color>
+</resources>

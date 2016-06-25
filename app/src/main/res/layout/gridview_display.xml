@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/root_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.viewpagerindictor.CirclePageIndicatorGridViewPager
+            android:id="@+id/app_cfindicator"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/transparent"
+            android:padding="10dip"
+            app:centered="true"
+            app:fillColor="@color/color_white"
+            app:pageColor="@color/color_white_light"
+            app:radius="3dp"
+            app:snap="true"
+            app:strokeColor="@android:color/transparent"
+            app:strokeWidth="0dp" />
+
+        <com.viewpagerindictor.viewpager.DraggableGridViewPager
+            android:id="@+id/gridViewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/app_cfindicator"
+            android:paddingBottom="25dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingTop="5dp" />
+    </RelativeLayout>
+
+</FrameLayout>
